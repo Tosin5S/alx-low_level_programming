@@ -12,3 +12,4 @@
 | `7-puts_half.c` | Prints half of a string, followed by a new line |
 | `8-print_array.c` | Prints `n` elements of an array of integers |
 | `9-strcpy.c` | Copies the string pointed to by `src`, including the terminating null byte, to the buffer pointed to by `dest` |
+| `100-atoi.c` | Converts a string to an integer |
