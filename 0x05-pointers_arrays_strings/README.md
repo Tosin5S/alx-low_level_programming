@@ -6,3 +6,4 @@
 | `1-swap.c` | Swaps the values of two integers |
 | `2-strlen.c` | Returns the length of a string |
 | `3-puts.c` | Prints a string to `stdout` |
+| `4-print_rev.c` | Prints a string, in reverse |
