@@ -10,3 +10,4 @@
 | [`0x03-debugging`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x03-debugging) | It aims to learn how to debug in **C language** |
 | [`0x04-more_functions_nested_loop`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x04-more_functions_nested_loop) | It aims to learn about nested loops in **C language** |
 | [`0x05-pointers_arrays_strings`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+| [`0x06-pointers_arrays_strings`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings) | It aims to learn about pointers, arrays and strings in **C language** |
