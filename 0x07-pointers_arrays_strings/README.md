@@ -9,3 +9,4 @@
 | `2-strchr.c` | Locates a character in a string |
 | `3-strspn.c` | Gets the length of a prefix substring |
 | `4-strpbrk.c` | Searches a string for any of a set of bytes |
+| `5-strstr.c` | Locates a substring |
