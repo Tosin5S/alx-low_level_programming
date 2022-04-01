@@ -14,3 +14,4 @@
 | [`0x07-pointers_arrays_strings`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings) | It aims to learn more about pointers, arrays and strings in **C language** |
 | [`0x08-recursion`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x08-recursion) | It aims to learn about recursion and how to implement it in **C language** |
 | [`0x09-static_libraries`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x09-static_libraries) | It aims to learn about static libraries in **C language** |
+| [`0x0A-argc_argv`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0A-argc_argv) | It aims to learn about how to use arguments passed to a program in **C language** |
