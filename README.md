@@ -16,3 +16,4 @@
 | [`0x09-static_libraries`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x09-static_libraries) | It aims to learn about static libraries in **C language** |
 | [`0x0A-argc_argv`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0A-argc_argv) | It aims to learn about how to use arguments passed to a program in **C language** |
 | [`0x0B-malloc_free`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0B-malloc_free) | It aims to learn about automatic and dynamic allocation in **C language** |
+| [`0x0C-more_malloc_free`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0C-more_malloc_free) | Automatic and dynamic allocation, malloc and free |
