@@ -11,3 +11,4 @@
 | `3-op_functions.c`  | a file that contains 5 functions, which includes op_add, op_sub, op_mul, op_div and op_mod |
 | `3-get_op_func.c`  | a file that contains the function that selects the correct function to perform the operation asked by the user |
 | `3-main.c` | a file that contains the main function |
+| `100-main_opcodes.c` |  a program that prints the opcodes of its own main function |
