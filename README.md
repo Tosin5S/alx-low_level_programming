@@ -17,3 +17,6 @@
 | [`0x0A-argc_argv`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0A-argc_argv) | It aims to learn about how to use arguments passed to a program in **C language** |
 | [`0x0B-malloc_free`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0B-malloc_free) | It aims to learn about automatic and dynamic allocation in **C language** |
 | [`0x0C-more_malloc_free`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0C-more_malloc_free) | Automatic and dynamic allocation, malloc and free |
+| [`0x0D-preprocessor`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0D-preprocessor) | Preprocessor |
+| [`0x0E-structures_typedef`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0E-structures_typedef) | Structures, typedef |
+| [`0x0F-function_pointers`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0F-function_pointers) | Function pointers |
