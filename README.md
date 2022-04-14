@@ -20,3 +20,4 @@
 | [`0x0D-preprocessor`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0D-preprocessor) | Preprocessor |
 | [`0x0E-structures_typedef`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0E-structures_typedef) | Structures, typedef |
 | [`0x0F-function_pointers`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x0F-function_pointers) | Function pointers |
+| [`0x10-variadic_functions`](https://github.com/Tosin5S/alx-low_level_programming/tree/main/0x10-variadic_functions) | Variadic functions |
